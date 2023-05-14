@@ -1,4 +1,4 @@
-import { Bussi } from './Bussi';
+import Bussi from './Bussi';
 import Button from './Button';
 import CalltoAction from './CalltoAction';
 import CardD from './CardD';
