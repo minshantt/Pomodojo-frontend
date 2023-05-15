@@ -15,6 +15,7 @@ import {
   ReviewCard,
   Stats,
 } from './components';
+import { navLinks } from './constants';
 
 const App = () => {
   return (
