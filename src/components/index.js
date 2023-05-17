@@ -6,7 +6,7 @@ import Certificate from './Certificate';
 import FeaturePreview from './FeaturePreview';
 import Footer from './Footer';
 import GetStarted from './GetStarted';
-import Main from './Main';
+import Landing from './Landing';
 import Navbar from './Navbar';
 import ReviewCard from './ReviewCard';
 import Stats from './Stats';
@@ -20,7 +20,7 @@ export {
   FeaturePreview,
   Footer,
   GetStarted,
-  Main,
+  Landing,
   Navbar,
   ReviewCard,
   Stats,

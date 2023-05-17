@@ -10,7 +10,7 @@ import {
   FeaturePreview,
   Footer,
   GetStarted,
-  Main,
+  Landing,
   Navbar,
   ReviewCard,
   Stats,
@@ -27,7 +27,8 @@ const App = () => {
       </div>
       <div className={`bg-primary $ ${styles.flexStrt}`}>
         <div className={`${styles.boxWidth}`}>
-          <Main />
+          <Landing />
+          ss
         </div>
       </div>
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStrt}`}>

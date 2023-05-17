@@ -72,8 +72,8 @@
   );
 }
 
-.bg-discount-gradient {
-  background: linear-gradient(125.17deg, #272727 0%, #11101d 100%);
+.bg-timer-gradient {
+  background: linear-gradient(125.17deg, #645f49 0%, #11101d 100%);
 }
 
 .box-shadow {
