@@ -24,7 +24,7 @@ const Landing = () => {
         </div>
 
         <div className='flex flex-row justify-between item-center w-full'>
-          <h1 className='flex-1 font-poppins font-semibold ss:text-[45px] text-white text-[52px] ss:leading-[86px] leading-[50px]'>
+          <h1 className='flex-1 font-poppins font-semibold ss:text-[45px] text-white text-[52px] ss:leading-[86px] leading-[80px]'>
             Master your tasks
             <br className='sm:block hidden' />
             <span className='text-gradient text-[60px] font-bold'>
@@ -33,7 +33,11 @@ const Landing = () => {
             <br />
             <span>the ultimate productivity tool</span>
           </h1>
+          <div className='ss:flex hidden md:mr-4 mr-0'>
+            <GetStarted />
+          </div>
         </div>
+
         <img src={home_girltomato} className='w-[500px] h-[500px]' />
       </div>
     </section>
