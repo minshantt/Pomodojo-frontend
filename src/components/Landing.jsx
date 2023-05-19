@@ -33,12 +33,25 @@ const Landing = () => {
             <br />
             <span>the ultimate productivity tool</span>
           </h1>
-          <div className='ss:flex hidden md:mr-4 mr-0'>
+          <div className='ss:flex hidden md:mr-4 mr-0 mt-5'>
             <GetStarted />
           </div>
         </div>
 
-        <img src={home_girltomato} className='w-[500px] h-[500px]' />
+        <p className={`${styles.paragraph} max-w-[470px] mt-5 text-dimwhite`}>
+          Bring discipline and focus to your work. <br />
+          Stay organized and accomplish more. <br />
+          Boost your efficiency and achieve your
+        </p>
+      </div>
+
+      <div className=''>
+        <img
+          src={home_girltomato}
+          alt='tomatogirl'
+          className='w-full h-full relative z-[5]'
+        />
+        <div className='absolute z-0 w-40% h-35% top-0 pink__gradient left' />
       </div>
     </section>
   );
