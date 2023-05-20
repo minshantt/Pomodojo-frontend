@@ -34,7 +34,7 @@
   text-fill-color: transparent;
 }
 
-.bg--gradient {
+.bg-tomato-gradient {
   background: linear-gradient(
     157.81deg,
     #f0e6ea -43.27%,
@@ -73,7 +73,7 @@
 }
 
 .bg-timer-gradient {
-  background: linear-gradient(125.17deg, #645f49 0%, #11101d 100%);
+  background: linear-gradient(125.17deg, #645f49 0%, #792340 100%);
 }
 
 .box-shadow {
@@ -125,13 +125,13 @@
 }
 
 .blue__gradient {
-  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
+  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #cee1f1 100%);
   filter: blur(123px);
 }
 
-.pink__gradient {
-  background: linear-gradient(90deg, #f4c4f3 0%, #fc67fa 100%);
-  filter: blur(900px);
+.chromeyellow__gradient {
+  background: linear-gradient(90deg, #f8e7ce 10%, #f9daaa 100%);
+  filter: blur(700px);
 }
 
 .white__gradient {

@@ -8,8 +8,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#720E2D',
-        secondary: '#DC6F76',
+        primary: '#F3B866',
+        secondary: '#F15D66',
         dimwhite: 'rgba(255,255,255,0.7)',
         dimbeige: 'rgba(222,197,181,0.6',
       },
