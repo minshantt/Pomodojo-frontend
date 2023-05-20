@@ -9,7 +9,7 @@ import GetStarted from './GetStarted';
 import Landing from './Landing';
 import Navbar from './Navbar';
 import ReviewCard from './ReviewCard';
-import Stats from './Stats';
+import LandingPerfomance from './LandingPerfomance';
 
 export {
   Bussi,
@@ -23,5 +23,5 @@ export {
   Landing,
   Navbar,
   ReviewCard,
-  Stats,
+  LandingPerfomance,
 };

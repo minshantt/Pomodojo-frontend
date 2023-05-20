@@ -13,9 +13,9 @@ import {
   Landing,
   Navbar,
   ReviewCard,
-  Stats,
+  LandingPerfomance,
 } from './components';
-import { navLinks } from './constants';
+import { navLinks, landingPerf } from './constants';
 
 const App = () => {
   return (

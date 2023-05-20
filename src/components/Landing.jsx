@@ -17,10 +17,10 @@ const Landing = () => {
           className={`flex flex-row items-center py-[6px] px-4 bg-timer-gradient rounded-[10px] mb-2`}
         >
           <img src={timerpng} alt='timerIcon' className='w-[32px] h-[32px]' />
-          <p className={`${styles.paragraph} ml-2 `}>
+          <div className={`${styles.paragraph} ml-2 `}>
             <span className='text-white'> perfect blend of focus, {'  '}</span>
             <span className='text-white'>discipline</span>
-          </p>
+          </div>
         </div>
 
         <div className='flex flex-row justify-between item-center w-full'>
