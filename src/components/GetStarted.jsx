@@ -12,10 +12,10 @@ const GetStarted = () => {
         className={`${styles.flexCen} flex-col bg-primary w-[100%] h-[100%] rounded-full`}
       >
         <div className={`${styles.flexStrt} flex-row`}>
-          <p className='font-poppins font-medium text-[17px] leading-[22px]'>
+          <div className='font-poppins font-medium text-[17px] leading-[22px]'>
             <span className='text-gradient'>Get</span>
             <p className='text-gradient'>Started</p>
-          </p>
+          </div>
           <img
             src={uparrow}
             alt='arrowicon'

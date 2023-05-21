@@ -37,7 +37,6 @@ const Landing = () => {
             <GetStarted />
           </div>
         </div>
-
         <p className={`${styles.paragraph} max-w-[470px] mt-5 text-dimwhite`}>
           Bring discipline and focus to your work. <br />
           Stay organized and accomplish more. <br />
