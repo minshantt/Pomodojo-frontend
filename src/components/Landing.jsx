@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
-import { home_girltomato, timer, timerpng } from '../assets';
+import { home_girltomato, timerpng } from '../assets';
 import styles from '../style';
 import GetStarted from './GetStarted';
 

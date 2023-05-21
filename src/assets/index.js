@@ -2,16 +2,20 @@ import close from './close.svg';
 import menu from './menu.svg';
 import pomodojo_logo from './pomodojo_logo.svg';
 import home_girltomato from './home_GirlWithTomato.png';
-import timer from './Timer.svg';
 import timerpng from './timer_png.png';
 import uparrow from './uparrow.svg';
+import chartIcon from './circlechartIcon.svg';
+import gamepadIcon from './gamepadIcon.svg';
+import peopleIcon from './manypeoplesIcon.svg';
 
 export {
   close,
   menu,
   pomodojo_logo,
   home_girltomato,
-  timer,
   timerpng,
   uparrow,
+  chartIcon,
+  gamepadIcon,
+  peopleIcon,
 };

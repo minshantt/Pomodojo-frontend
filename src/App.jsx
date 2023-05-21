@@ -2,13 +2,11 @@
 import React from 'react';
 import styles from './style.js';
 import {
-  Bussi,
   Button,
   CalltoAction,
   CardD,
   Certificate,
   FeaturePreview,
-  Footer,
   GetStarted,
   Landing,
   Navbar,
@@ -33,9 +31,8 @@ const App = () => {
       <LandingPerfomance />
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStrt}`}>
         <div className={`${styles.boxWidth}`}>
-          <Bussi />
+          <FeaturePreview />
           <Button />
-          <CalltoAction />
         </div>
       </div>
     </div>

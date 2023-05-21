@@ -29,3 +29,26 @@ export const landingPerf = [
     value: 'GROWING',
   },
 ];
+export const featureList = [
+  {
+    id: 'feature-1',
+    icon: 'circlechart',
+    title: 'Progress Tracking',
+    content:
+      'Stay on top of your tasks representation of users progress, indicating completed, remaining tasks, and time spent on each task.',
+  },
+  {
+    id: 'feature-2',
+    icon: 'gamepad',
+    title: 'Gamification',
+    content:
+      'Minimize your task to make the experience motivating. This can involve achievements, badges, or rewards for completing tasks or reaching productivity milestones.',
+  },
+  {
+    id: 'feature-3',
+    icon: 'manypeoples',
+    title: 'Collaboration Team',
+    content:
+      ' include collaboration features for team, such as shared task lists, progress tracking, and communication board. This enables teams efficiently and stay aligned on their goals.',
+  },
+];

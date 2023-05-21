@@ -1,4 +1,3 @@
-import Bussi from './Bussi';
 import Button from './Button';
 import CalltoAction from './CalltoAction';
 import CardD from './CardD';
@@ -12,7 +11,6 @@ import ReviewCard from './ReviewCard';
 import LandingPerfomance from './LandingPerfomance';
 
 export {
-  Bussi,
   Button,
   CalltoAction,
   CardD,
