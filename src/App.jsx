@@ -4,7 +4,6 @@ import styles from './style.js';
 import {
   Button,
   CalltoAction,
-  CardD,
   Certificate,
   FeaturePreview,
   GetStarted,

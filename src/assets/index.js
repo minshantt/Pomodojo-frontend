@@ -7,6 +7,9 @@ import uparrow from './uparrow.svg';
 import chartIcon from './circlechartIcon.svg';
 import gamepadIcon from './gamepadIcon.svg';
 import peopleIcon from './manypeoplesIcon.svg';
+import chartIconpeng from './chartIconpeng.png';
+import gamepadIconpeng from './gamepadIconpeng.png';
+import peopleIconpeng from './peopleIconpeng.png';
 
 export {
   close,
@@ -18,4 +21,7 @@ export {
   chartIcon,
   gamepadIcon,
   peopleIcon,
+  chartIconpeng,
+  gamepadIconpeng,
+  peopleIconpeng,
 };

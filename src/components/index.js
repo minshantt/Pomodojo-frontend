@@ -1,6 +1,5 @@
 import Button from './Button';
 import CalltoAction from './CalltoAction';
-import CardD from './CardD';
 import Certificate from './Certificate';
 import FeaturePreview from './FeaturePreview';
 import Footer from './Footer';
@@ -13,7 +12,6 @@ import LandingPerfomance from './LandingPerfomance';
 export {
   Button,
   CalltoAction,
-  CardD,
   Certificate,
   FeaturePreview,
   Footer,
