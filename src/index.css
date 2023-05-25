@@ -5,11 +5,17 @@
 @tailwind utilities;
 
 :root {
-  --black-gradient: linear-gradient(
+  --pinkto-gradient: linear-gradient(
     144.39deg,
     #ffffff -278.56%,
-    #6d6d6d -78.47%,
-    #11101d 91.61%
+    #fac5b8 -78.47%,
+    #f15d66 91.61%
+  );
+  --clientcard-gradient: linear-gradient(
+    144.39deg,
+    #ffffff -278.56%,
+    #a47c72 -78.47%,
+    #febf6b 91.61%
   );
   --card-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
 }
@@ -21,12 +27,10 @@
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
-    #f0e6ea 0.89%,
-    #d4b6c0 17.23%,
-    #b88696 42.04%,
-    #9c566c 55.12%,
-    #802642 71.54%,
-    #720e2d 100%
+    #f15d66 -40%,
+    #bd5a43 20%,
+    #f15d66 50%,
+    #f38e75 90%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -46,16 +50,16 @@
   );
 }
 
-.bg-black-gradient {
+.bg-pink-gradient {
   background: linear-gradient(
     144.39deg,
     #ffffff -278.56%,
-    #6d6d6d -78.47%,
-    #11101d 91.61%
+    #f38e75 -48.47%,
+    #d34952 71.61%
   );
 }
 
-.bg-black-gradient-2 {
+.bg-black-gradient {
   background: linear-gradient(
     -168.39deg,
     #ffffff -278.56%,
@@ -73,7 +77,7 @@
 }
 
 .bg-timer-gradient {
-  background: linear-gradient(125.17deg, #645f49 0%, #792340 100%);
+  background: linear-gradient(125.17deg, #f15d66 40%, #f6ad9a 90%);
 }
 
 .box-shadow {
@@ -108,20 +112,21 @@
 }
 
 .feature-card:hover {
-  background: var(--black-gradient);
+  background: var(--pinkto-gradient);
   box-shadow: var(--card-shadow);
 }
 
-.feedback-container .feedback-card:last-child {
+.client-container .client-card:last-child {
   margin-right: 0px;
 }
 
-.feedback-card {
+.client-card {
   background: transparent;
 }
 
-.feedback-card:hover {
-  background: var(--black-gradient);
+.client-card:hover {
+  background: var(--clientcard-gradient);
+  box-shadow: var(--card-shadow);
 }
 
 .blue__gradient {

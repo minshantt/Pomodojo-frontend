@@ -33,7 +33,7 @@ const Landing = () => {
             <br />
             <span>the ultimate productivity tool</span>
           </h1>
-          <div className='ss:flex hidden md:mr-4 mr-0 mt-5'>
+          <div className=' ss:flex hidden ss:mt-40 md:mr-4 mr-0 mt-5'>
             <GetStarted />
           </div>
         </div>

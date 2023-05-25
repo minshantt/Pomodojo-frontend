@@ -11,7 +11,8 @@ export default {
         primary: '#F3B866',
         secondary: '#F15D66',
         dimwhite: 'rgba(255,255,255,0.7)',
-        dimbeige: 'rgba(222,197,181,0.6',
+        dimbeige: 'rgba(222,197,181,0.5)',
+        mahogred: 'rgba(63,12,9,1)',
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],

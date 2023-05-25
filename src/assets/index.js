@@ -10,6 +10,10 @@ import peopleIcon from './manypeoplesIcon.svg';
 import chartIconpeng from './chartIconpeng.png';
 import gamepadIconpeng from './gamepadIconpeng.png';
 import peopleIconpeng from './peopleIconpeng.png';
+import featureui from './featureUi.png';
+import profile1 from './profile-1.png';
+import profile2 from './profile-2.png';
+import profile3 from './profile-3.png';
 
 export {
   close,
@@ -24,4 +28,8 @@ export {
   chartIconpeng,
   gamepadIconpeng,
   peopleIconpeng,
+  featureui,
+  profile1,
+  profile2,
+  profile3,
 };

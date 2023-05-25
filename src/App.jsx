@@ -2,14 +2,11 @@
 import React from 'react';
 import styles from './style.js';
 import {
-  Button,
-  CalltoAction,
   Certificate,
   FeaturePreview,
   GetStarted,
   Landing,
   Navbar,
-  ReviewCard,
   LandingPerfomance,
 } from './components';
 import { navLinks, landingPerf } from './constants';
@@ -27,11 +24,11 @@ const App = () => {
           <Landing />
         </div>
       </div>
-      <LandingPerfomance />
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStrt}`}>
         <div className={`${styles.boxWidth}`}>
+          <LandingPerfomance />
           <FeaturePreview />
-          <Button />
+          <Certificate />
         </div>
       </div>
     </div>
