@@ -1,4 +1,6 @@
-![Pomodojo Logo](./assets/pomo_mockPng.png)
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/fife/APg5EOa9rZdtZ5ncgVnjWHxqXqWz9Wz9CCiKYcg6i19kHK6qXIRVSt6d7ans4y1gF-mjOlpIMygds7GjTulBxTKHZMdmissHmYjjgAH-JDSx9nM7dr_zC2uQje2XB9YGVLhqcuVwFjgMgb57JOC9wwxt-RnOGZjjwF43GtPIkZ7oXsU5qaB4UAazbUNkTsu-C7SqIieN8A8mErrj-MPYKRr76mQALsiZCm1UKHCC0j45MQHUKdA3d03o0gwTkjd942gyILiggmEC9SHO2ok69mebq3jR1Z1xowaCUew-ebckKRiTYOlIulHQwxiskOA0c4pSmzce3ic54xLYY_1IVp6gppWYbV2nLtci4G0MEPzTclj8X1_Q-Nou7IHBB7PpqropPRvyB20IUfEAiQqgeiOlf3XfeGxKdC7EJDDgk6V1SnA-Bo-KXAnymPDEZfoq7mqQIIbQUad34Pc64lmBPR_GbzWc0Qj9m88uXXv9VnkIa3LstyOB2etv0038deKPV-CJC__sKL83MaGeJNwzXtzvdVnZNdJfgO3NW6LuCF5tyiyz502TtotCzu9XLFb3Tw6EiigxxsMbo1R1FlYhqR9RrY8NcCr102WAQ5q_IrHeTyvtnYny4ugilgCtN155rLZW3TxNWQ7LnN6j2Hyu6S9ti5SMeUo23jtEhn6hcg0zaJWKPtP1u40zooaAjZZdVU_1L7bP4a5uprUFTMOKTsepJBVd5N8bnfBw7GuzbPeijNsbIRZq3GgUBpC4iA0cvgcCqGTul57WagnZ0djwDOvMddW3hV57CNwSVPnoAwWh_JE5rTy9XeqVdPVlXrsFJFuxTQb5sInAgknJxrq9_qwNoR_dfZhxsRJXg0fikqX6QYPb_CeL6mkuIHEf_U_KbSjXDXJvisTCLYmzXY4CzyLGGhmQrwtcRFNPvn0bL9FY4y6rjPqs54xIAQb6DcKYGDHKtl0uta29Td3kuTwbOtRHJ16u_-9BhcUD-QS-BXwLvjQCU1y7yVmLSMrC3a472Q69YPw8tE6qRT_bQauFK1p5tWMkKJUULkWiF6aSa9tG3hO1gT9__er2tlm71LGCkRYPQA-sPJTqXbDTrqRzE4JZHCQmDr-0-jZ82WjYJ8s0F1Scx_HdsK76Gq7dAGMsYr8bCM6Gf7MZmhtVaSqzOvoD5lFTcXZk3aY-Vleq5yaOetX65Mhcri_ofAXmv7X3A5vQcFsgXb0gzgo_HI6TJfRV8071ma15OG_8Op6uolQX0VyNA_esKm82T0bNNeGGY_VeC0xGRc27gU95wI61eH1q8KQOvS9L69yPLIjSj-qkkDxNi__G-SsktwNN_ZeZ9Baepue8wHtEBOQsll1ZbvoOjPhg8o_-wCU6iQu0wTkceuLTnp4A4UT9qmkciJ_6KLjN6H2AOxVS6FBTKHBd171GXJTxoE48bsNmOy_bysEqmLMsaOg0gj-naGimf1A4uHUPybzwvzQPP02IbLgYs4Nn_y5ttQ53pX9nE3mPO9TkCKymmCZZj6VxGWIzC7hiLWWPYOPqvKis9XQ7XD6OlDW_V3wTQrHwwpaLFVCaz1uuVBWN44s9WH4ARMf5W6zM-Hv_zj_3n9t-kbvP-b96osDiMrkOTcSA1ld_V3mn5PH_rFgvQw=w1920-h1080" alt="Pomodojo" width="500px">
+</p>
 
 # Pomodojo+ front-end
 
@@ -9,7 +11,7 @@ as modularization and component-based architecture. By utilizing the **_map_**
 and **_name export_** and **_reuse-component_** technique, the codebase is
 organized and maintainable, making it easier to scale and enhance the project
 
-## Getting Started
+## Getting Started 💻
 
 To get started with Vite on the Pomodojo+ project, follow the steps below:
 
@@ -20,7 +22,7 @@ To get started with Vite on the Pomodojo+ project, follow the steps below:
 4. Visit `http://127.0.0.1:3000/` in your browser to see the project in action.
 5. To build the project for production. `npm run build`
 
-## Project Structure
+## Project Structure 🏨
 
 The project structure is organized as follows:
 
@@ -59,7 +61,7 @@ src/
 | LandingPerformance | Renders a section highlighting the performance of the product.         |
 | Navbar.jsx         | Renders the navigation bar component.                                  |
 
-## Technologies Used
+## Technologies Used 🌀
 
 - React: A JavaScript library for building user interfaces.
 - Tailwind CSS: framework that provides a set of pre-defined utility classes.
@@ -67,17 +69,20 @@ src/
 - React Hooks: A feature introduced in React 16.8 that allows functional
   components to use state and other React features.
 
-## Deployment
+## Deployment 🌏
 
 Our [Netlify : Pomodojo+ <<<](https://minshantt-pomodojo.netlify.app.com)
 
-The NinTube project can be deployed to a variety of platforms, such as Netlify,
-Heroku, or AWS. To deploy the project, follow the steps below:
+The Pomodojo+ project can be deployed to a variety of platforms, such as
+Netlify, Heroku, or AWS. To deploy the project, follow the steps below:
 
 Build the project using npm run build. Choose a deployment platform and follow
 the platform-specific instructions for deployment.
-![Narutopixel](https://media3.giphy.com/media/mbfP9v8u43Afvyc8Sy/200w.webp?cid=ecf05e47m0xoq80em1lkoa9zl1kpxxncbdyaqk6vwpb0ojza&rid=200w.webp&ct=)
 
-![MinShantt](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU4YTNmNGFhNDE0ZGVhYWU5OTEzM2I2NTFlYTQyNjQ2ZjU3OTUyNCZjdD1z/szQYBuAJaOta7UQ8Au/giphy.gif)
+![Tomato](https://media.giphy.com/media/vhmqZP2vm1Nfy/giphy.gif)
 
-- - - - - - ## ss
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU4YTNmNGFhNDE0ZGVhYWU5OTEzM2I2NTFlYTQyNjQ2ZjU3OTUyNCZjdD1z/szQYBuAJaOta7UQ8Au/giphy.gif" alt="minshJourney" width="500px">
+</p>
+
+- - - - - - ### The grind never stops! 💭
