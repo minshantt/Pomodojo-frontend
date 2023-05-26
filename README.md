@@ -1,12 +1,13 @@
-<img src="https://res.cloudinary.com/mmin/image/upload/v1669291157/NinTube/nintubeLogo_vuwtnp.png" alt="NinTube_Logo" width="300" height="300">
+![Pomodojo Logo](./assets/pomo_mockPng.png)
 
 # Pomodojo+ front-end
 
-**Pomodojo+** is a **_Responsive_** landing page powered by **_React_** and **_Tailwind CSS_**.
- Experience the power of the Pomodoro + Bujo for enhanced productivity and time management. 
- incorporates industry-standard techniques such as modularization and component-based architecture.
- By utilizing the **_map_** and **_name export_** and **_reuse-component_** technique,
- the codebase is organized and maintainable, making it easier to scale and enhance the project
+**Pomodojo+** is a **_Responsive_** landing page powered by **_React_** and
+**_Tailwind CSS_**. Experience the power of the Pomodoro + Bujo for enhanced
+productivity and time management. incorporates industry-standard techniques such
+as modularization and component-based architecture. By utilizing the **_map_**
+and **_name export_** and **_reuse-component_** technique, the codebase is
+organized and maintainable, making it easier to scale and enhance the project
 
 ## Getting Started
 
@@ -27,7 +28,7 @@ The project structure is organized as follows:
 src/
 ├── /assets
 │ ├── All-Of-Img-Here-:D
-│ 
+│
 ├── components/
 │ ├── Certificate.jsx
 │ ├── ClientCard.jsx
@@ -47,16 +48,16 @@ src/
 └── ...
 ```
 
-| Path Directory    | Description                                                                   |
-| ----------------- | ----------------------------------------------------------------------------- |
-| Certificate.jsx   | Renders the section displaying client feedback layout                         |
-| ClientCard.jsx    | Displays a client testimonial card with their name, image, and review.        |
-| FeaturePreview.jsx| Renders a preview of the key features or highlights of the product.           |
-| GetStarted.jsx    | Renders the section button get started with the product.                      |
-| Index.js:         | Entry point for exporting JSON                                                |
-| Landing.jsx       | The main landing page component that combines all other components.           |
-| LandingPerformance| Renders a section highlighting the performance of the product.                |
-| Navbar.jsx        | Renders the navigation bar component.                                         |
+| Path Directory     | Description                                                            |
+| ------------------ | ---------------------------------------------------------------------- |
+| Certificate.jsx    | Renders the section displaying client feedback layout                  |
+| ClientCard.jsx     | Displays a client testimonial card with their name, image, and review. |
+| FeaturePreview.jsx | Renders a preview of the key features or highlights of the product.    |
+| GetStarted.jsx     | Renders the section button get started with the product.               |
+| Index.js:          | Entry point for exporting JSON                                         |
+| Landing.jsx        | The main landing page component that combines all other components.    |
+| LandingPerformance | Renders a section highlighting the performance of the product.         |
+| Navbar.jsx         | Renders the navigation bar component.                                  |
 
 ## Technologies Used
 
