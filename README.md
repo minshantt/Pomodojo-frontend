@@ -69,6 +69,8 @@ src/
 - Vite: ast build tool for modern web development.
 - React Hooks: A feature introduced in React 16.8 that allows functional
   components to use state and other React features.
+  
+  ![Tomato](https://media.giphy.com/media/vhmqZP2vm1Nfy/giphy.gif)
 
 ## Deployment 🌏
 
@@ -79,8 +81,6 @@ Netlify, Heroku, or AWS. To deploy the project, follow the steps below:
 
 Build the project using npm run build. Choose a deployment platform and follow
 the platform-specific instructions for deployment.
-
-![Tomato](https://media.giphy.com/media/vhmqZP2vm1Nfy/giphy.gif)
 
 <p align="center">
   <img src="https://media.giphy.com/media/1S3LLQcR52Oskgrrui/giphy.gif" alt="minshJourney" width="500px">
