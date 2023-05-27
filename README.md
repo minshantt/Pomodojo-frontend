@@ -72,7 +72,7 @@ src/
 
 ## Deployment 🌏
 
-Our [Netlify : Pomodojo+ <<<](https://minshantt-pomodojo.netlify.app.com)
+Our [Netlify : Pomodojo+ <<<](https://minshantt-pomodojo.netlify.app)
 
 The Pomodojo+ project can be deployed to a variety of platforms, such as
 Netlify, Heroku, or AWS. To deploy the project, follow the steps below:
@@ -85,4 +85,4 @@ the platform-specific instructions for deployment.
 <p align="center">
   <img src="https://media.giphy.com/media/1S3LLQcR52Oskgrrui/giphy.gif" alt="minshJourney" width="500px">
 </p>
-- - - - - - ### The grind never stops! 💭
+- - - - - - ### The grind never stops!💭
