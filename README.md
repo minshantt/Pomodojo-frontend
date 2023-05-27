@@ -85,4 +85,5 @@ the platform-specific instructions for deployment.
 <p align="center">
   <img src="https://media.giphy.com/media/1S3LLQcR52Oskgrrui/giphy.gif" alt="minshJourney" width="500px">
 </p>
-- - - - - - ### The grind never stops. 💭
+
+- - - - - - ### The grind never stops! 💭
